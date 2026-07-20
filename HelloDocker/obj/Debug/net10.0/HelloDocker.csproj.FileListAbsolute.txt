@@ -1,0 +1,15 @@
+/workspaces/Docker-CSharp-Lab/HelloDocker/bin/Debug/net10.0/HelloDocker
+/workspaces/Docker-CSharp-Lab/HelloDocker/bin/Debug/net10.0/HelloDocker.deps.json
+/workspaces/Docker-CSharp-Lab/HelloDocker/bin/Debug/net10.0/HelloDocker.runtimeconfig.json
+/workspaces/Docker-CSharp-Lab/HelloDocker/bin/Debug/net10.0/HelloDocker.dll
+/workspaces/Docker-CSharp-Lab/HelloDocker/bin/Debug/net10.0/HelloDocker.pdb
+/workspaces/Docker-CSharp-Lab/HelloDocker/obj/Debug/net10.0/HelloDocker.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Docker-CSharp-Lab/HelloDocker/obj/Debug/net10.0/HelloDocker.AssemblyInfoInputs.cache
+/workspaces/Docker-CSharp-Lab/HelloDocker/obj/Debug/net10.0/HelloDocker.AssemblyInfo.cs
+/workspaces/Docker-CSharp-Lab/HelloDocker/obj/Debug/net10.0/HelloDocker.csproj.CoreCompileInputs.cache
+/workspaces/Docker-CSharp-Lab/HelloDocker/obj/Debug/net10.0/HelloDocker.sourcelink.json
+/workspaces/Docker-CSharp-Lab/HelloDocker/obj/Debug/net10.0/HelloDocker.dll
+/workspaces/Docker-CSharp-Lab/HelloDocker/obj/Debug/net10.0/refint/HelloDocker.dll
+/workspaces/Docker-CSharp-Lab/HelloDocker/obj/Debug/net10.0/HelloDocker.pdb
+/workspaces/Docker-CSharp-Lab/HelloDocker/obj/Debug/net10.0/HelloDocker.genruntimeconfig.cache
+/workspaces/Docker-CSharp-Lab/HelloDocker/obj/Debug/net10.0/ref/HelloDocker.dll

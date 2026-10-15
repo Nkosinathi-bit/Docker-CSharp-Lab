@@ -1,5 +1,9 @@
 # Docker C# Lab
 
+[![Checks](https://github.com/Nkosinathi-bit/Docker-CSharp-Lab/actions/workflows/ci.yml/badge.svg)](https://github.com/Nkosinathi-bit/Docker-CSharp-Lab/actions/workflows/ci.yml)
+
+**Introductory coursework · CNA 271 · C# and Docker**
+
 A small C# console exercise for learning how an application is built and run inside a Docker container.
 
 **Module:** CNA 271 · Belgium Campus  

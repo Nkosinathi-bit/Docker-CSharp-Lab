@@ -1,0 +1,37 @@
+name: Build and check container
+
+on: [push, pull_request, workflow_dispatch]
+
+permissions:
+  contents: read
+
+jobs:
+  container:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Check out source
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+
+      - name: Build container
+        run: docker build -t hello-docker-ci .
+
+      - name: Check console behaviour
+        run: |
+          python3 - <<'PY'
+          import subprocess
+          
+          for name, entries, expected in [
+              ("named greeting", "Jay\n", "Hello Jay!"),
+              ("closed input", "", "Hello friend!"),
+          ]:
+              result = subprocess.run(
+                  ["docker", "run", "--rm", "-i", "hello-docker-ci"],
+                  input=entries, text=True, capture_output=True, timeout=15
+              )
+              assert result.returncode == 0, (name, result.stdout, result.stderr)
+              assert expected in result.stdout, (name, expected, result.stdout)
+              print(f"PASS: {name}")
+          PY

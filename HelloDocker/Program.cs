@@ -12,7 +12,7 @@ namespace HelloDocker
             Console.WriteLine("==================================");
 
             Console.Write("Enter your name: ");
-            string name = Console.ReadLine();
+            string name = Console.ReadLine() ?? "friend";
 
             Console.WriteLine($"Hello {name}!");
             Console.WriteLine("I am ready to learn Docker!");

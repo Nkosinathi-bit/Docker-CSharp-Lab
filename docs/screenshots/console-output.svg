@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1240" height="360" viewBox="0 0 1240 360">
+<rect width="1240" height="360" rx="18" fill="#0e1728"/>
+<text x="48" y="47" xml:space="preserve" font-family="DejaVu Sans" font-size="12" font-weight="600" fill="#83cbb1">RECORDED APPLICATION OUTPUT</text>
+<text x="48" y="92" xml:space="preserve" font-family="DejaVu Sans" font-size="29" font-weight="600" fill="#ffffff">Docker C# Lab</text>
+<path d="M48 120H1192" stroke="#2b3c53"/>
+<text x="48" y="161" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">==================================</text>
+<text x="48" y="185" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Welcome to GitHub Codespaces</text>
+<text x="48" y="209" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">Learning Docker with C#</text>
+<text x="48" y="233" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">==================================</text>
+<text x="48" y="257" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#8bdfbc">Enter your name: Hello Demo Developer!</text>
+<text x="48" y="281" xml:space="preserve" font-family="DejaVu Sans Mono" font-size="17" font-weight="400" fill="#d9e4ef">I am ready to learn Docker!</text>
+<path d="M48 307H1192" stroke="#2b3c53"/>
+<text x="48" y="334" xml:space="preserve" font-family="DejaVu Sans" font-size="12" font-weight="400" fill="#9eafc3">Actual stdout from an automated run. Full unedited transcript is linked in the README.</text>
+</svg>

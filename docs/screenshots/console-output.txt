@@ -1,0 +1,6 @@
+==================================
+Welcome to GitHub Codespaces
+Learning Docker with C#
+==================================
+Enter your name: Hello Demo Developer!
+I am ready to learn Docker!

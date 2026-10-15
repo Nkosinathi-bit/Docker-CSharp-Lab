@@ -9,6 +9,14 @@ A small C# console exercise for learning how an application is built and run ins
 **Module:** CNA 271 · Belgium Campus  
 **Author:** Nkosinathi Mathenjwa
 
+## Output preview
+
+The image below presents output recorded from a real automated application run. It is a console-output excerpt; the program uses a terminal interface.
+
+![Recorded application output](docs/screenshots/console-output.png)
+
+[Full unedited output](docs/screenshots/console-output.txt) · [Capture source and sample input](docs/screenshots/capture.json)
+
 ## What the application does
 
 The application prints a welcome message, asks for your name and displays a personalised greeting.
@@ -55,3 +63,4 @@ Generated `bin/` and `obj/` folders are excluded from version control. Build out
 - Keeping source files separate from generated output
 
 This is an introductory learning exercise.
+
